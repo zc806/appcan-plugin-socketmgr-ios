@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>73CC375E-CC4C-4B32-A148-249D4C5FD6AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>uexSocketMgr</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>614D1B0F-3367-4EE4-990C-173DC5E133D6</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS/branches/xrg_Plugin3.0_IOS_20141011/code/public/EUExSocketMgr</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>uexSocketMgr.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>614D1B0F-3367-4EE4-990C-173DC5E133D6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>614D1B0F-3367-4EE4-990C-173DC5E133D6</key>
+		<string>https://192.168.1.38/svn/Plugin3.0_IOS</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.1.38/svn/Plugin3.0_IOS/branches/xrg_Plugin3.0_IOS_20141011/code/public/EUExSocketMgr/uexSocketMgr.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>614D1B0F-3367-4EE4-990C-173DC5E133D6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>614D1B0F-3367-4EE4-990C-173DC5E133D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EUExSocketMgr1011</string>
+		</dict>
+	</array>
+</dict>
+</plist>
