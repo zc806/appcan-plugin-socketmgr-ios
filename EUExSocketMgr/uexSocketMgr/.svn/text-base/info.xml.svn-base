@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<uexplugins>
-    <plugin
-        uexName="uexSocketMgr" version="3.0.4" build="4">
-        <info>4:调整onData方法的回调参数</info>
-        <build>0:Socket功能插件</build>
-    </plugin>
-</uexplugins>
